@@ -1,4 +1,4 @@
-// 코드업 1044번 문제  
+// codeup 1044 problem
 #include <cstdio>  
 using namespace std; 
 
